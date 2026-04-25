@@ -5215,6 +5215,7 @@ body .ui-tooltip {
   border-bottom: 1px solid rgba(0, 0, 0, 0.1);
 }
 .tp-main-menu-mobile ul li.has-dropdown > a .dropdown-toggle-btn {
+	display:none;
   position: absolute;
   right: 0;
   top: 50%;
