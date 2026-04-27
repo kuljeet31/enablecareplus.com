@@ -4212,6 +4212,7 @@ body .ui-tooltip {
 }
 .tp-header-box {
   position: relative;
+  padding: 8px 0;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px), (max-width: 767px) {
@@ -5215,7 +5216,7 @@ body .ui-tooltip {
   border-bottom: 1px solid rgba(0, 0, 0, 0.1);
 }
 .tp-main-menu-mobile ul li.has-dropdown > a .dropdown-toggle-btn {
-	display:none;
+  display: none;
   position: absolute;
   right: 0;
   top: 50%;
